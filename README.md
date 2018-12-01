@@ -10,4 +10,4 @@ Most of the ideas I took from [here](https://github.com/jdwittenauer/ipython-not
 4. Using [one-hot encoding ](https://www.quora.com/What-is-one-hot-encoding-and-when-is-it-used-in-data-science) for  "y" array transformation | Использование [one-hot encoding ](https://www.quora.com/What-is-one-hot-encoding-and-when-is-it-used-in-data-science) для преобразования массива "y". [One hot encoding](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html) преобразует категориальные признаки (features) в формат, который лучше работает с алгоритмами классификации и регрессии.  
 5. Subplotting is a technique for creating multiple plots that live side-by-side in one overall figure. Subplots takes two arguments. The first one controls the number of rows, the second one the number of columns.  
 ```_, axarr = plt.subplots(10,10,figsize=(12,12))```  
-6. ```np.random.randint(15)```- вернет одно целое число из [0, 15)
+6. ```np.random.randint(X.shape[0])```- вернет одно целое число из [0, 5000)
