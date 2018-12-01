@@ -2,8 +2,9 @@
 
 #### Exercise 4: Neural Networks Learning  
 
+**checkWD.ipynb**  
 1. How to check the current working directory? Как узнать текущую рабочую директорию?  
 2. How to change (set) the current working directory? Как изменить рабочую директорию?
-**checkWD.ipynb**
+
 
 
