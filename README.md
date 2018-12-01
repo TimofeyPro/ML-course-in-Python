@@ -1,6 +1,6 @@
 ### Python implementations of the exercises presented by Andrew Ng in "Machine Learning" class on Coursera.  
 You may find more details in Russian at [timofey.pro](https://timofey.pro/AI/Ng.html)  
-Most of the ideas I took from [here](https://github.com/jdwittenauer/ipython-notebooks) and [here](https://github.com/kaleko/CourseraML/blob/master/ex4/ex4.ipynb).  
+Most of the ideas I took from [here](https://github.com/jdwittenauer/ipython-notebooks), [here](https://github.com/kaleko/CourseraML/blob/master/ex4/ex4.ipynb) and [here](https://medium.com/analytics-vidhya/a-guide-to-using-logistic-regression-for-digit-recognition-with-python-codes-86aae6da10fe).  
 
 #### [Exercise 4: Neural Networks Learning](Exercise4_Neural_Networks_Learning)
 
