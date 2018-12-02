@@ -12,8 +12,9 @@ You may find more details in Russian at [timofey.pro](https://timofey.pro/AI/Ng.
         5.1 ```_, axarr = plt.subplots(10,10,figsize=(12,12))``` - Subplotting is a technique for creating multiple plots that live side-by-side in one overall figure. Subplots takes two arguments. The first one controls the number of rows, the second one the number of columns.  
         5.2 ```np.random.randint(X.shape[0])```- Return random integer from [0, 5000) | Вернет одно целое число из [0, 5000)  
         5.3 **plt.imshow()** function interprets a two-dimensional grid of data as an image. Suggested reading - Chapter 4. Visualization with Matplotlib. Python Data Science Handbook by Jake VanderPlas [Link](https://www.oreilly.com/library/view/python-data-science/9781491912126/ch04.html).  
-6. 
-        
+6. [Manual](https://docs.scipy.org/doc/numpy/reference/generated/numpy.insert.html) for numpy.insert(arr, obj, values, axis=None) function.  
+7. [Manual](https://docs.scipy.org/doc/numpy/reference/generated/numpy.ones.html) for numpy.ones(shape, dtype=None, order='C') function.   8. [Manual](https://docs.scipy.org/doc/numpy/reference/generated/numpy.matrix.html) for numpy.matrix(data, dtype=None, copy=True) function.  
+9.
         
         
         
