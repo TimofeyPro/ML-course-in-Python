@@ -1,6 +1,6 @@
 ### Python implementations of the exercises presented by Andrew Ng in "Machine Learning" class on Coursera.  
 You may find more details in Russian at [timofey.pro](https://timofey.pro/AI/Ng.html)  
-Most of the ideas I took from [here](https://github.com/jdwittenauer/ipython-notebooks), [here](https://github.com/kaleko/CourseraML/blob/master/ex4/ex4.ipynb) and [here](https://medium.com/analytics-vidhya/a-guide-to-using-logistic-regression-for-digit-recognition-with-python-codes-86aae6da10fe).  
+ 
 
 #### [Exercise 4: Neural Networks Learning](Exercise4_Neural_Networks_Learning)
 
@@ -11,3 +11,10 @@ Most of the ideas I took from [here](https://github.com/jdwittenauer/ipython-not
 5. Visualizing the data | Визуализация данных  
         5.1 ```_, axarr = plt.subplots(10,10,figsize=(12,12))``` - Subplotting is a technique for creating multiple plots that live side-by-side in one overall figure. Subplots takes two arguments. The first one controls the number of rows, the second one the number of columns.  
         5.2 ```np.random.randint(X.shape[0])```- Return random integers [0, 5000) | Вернет одно целое число из [0, 5000)
+        
+        
+        
+        
+        
+        
+You may find usefull references to other solutions [here](https://github.com/jdwittenauer/ipython-notebooks), [here](https://github.com/kaleko/CourseraML/blob/master/ex4/ex4.ipynb), [here](https://medium.com/analytics-vidhya/a-guide-to-using-logistic-regression-for-digit-recognition-with-python-codes-86aae6da10fe) and [here](https://github.com/andrewenoble/machine-learning-andrew-ng).
