@@ -11,7 +11,7 @@ You may find more details in Russian at [timofey.pro](https://timofey.pro/AI/Ng.
 5. **Visualizing the data | Визуализация данных**  
         5.1 ```_, axarr = plt.subplots(10,10,figsize=(12,12))``` - Subplotting is a technique for creating multiple plots that live side-by-side in one overall figure. Subplots takes two arguments. The first one controls the number of rows, the second one the number of columns.  
         5.2 ```np.random.randint(X.shape[0])```- Return random integer from [0, 5000) | Вернет одно целое число из [0, 5000)
-        
+        5.3 **plt.imshow()** function interprets a two-dimensional grid of data as an image. Suggested reading - Chapter 4. Visualization with Matplotlib. Python Data Science Handbook by Jake VanderPlas. 
         
         
         
