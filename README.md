@@ -15,7 +15,7 @@ You may find more details in Russian at [timofey.pro](https://timofey.pro/AI/Ng.
 6. [Manual](https://docs.scipy.org/doc/numpy/reference/generated/numpy.insert.html) for numpy.insert(arr, obj, values, axis=None) function.  
 7. [Manual](https://docs.scipy.org/doc/numpy/reference/generated/numpy.ones.html) for numpy.ones(shape, dtype=None, order='C') function.  
 8. [Manual](https://docs.scipy.org/doc/numpy/reference/generated/numpy.matrix.html) for numpy.matrix(data, dtype=None, copy=True) function.  
-9.
+9. [Manual](https://docs.scipy.org/doc/scipy-0.15.1/reference/generated/scipy.optimize.minimize.html) for scipy.optimize.minimize(fun, x0, args=(), method=None, jac=None, hess=None, hessp=None, bounds=None, constraints=(), tol=None, callback=None, options=None) function.  
         
         
         
