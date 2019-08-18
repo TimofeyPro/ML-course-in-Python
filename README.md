@@ -2,7 +2,8 @@
 You may find more details in Russian at [timofey.pro](https://timofey.pro/AI/Ng.html)  
 
 #### [Exercise 1: Linear Regression](https://github.com/TimofeyPro/ML-course-in-Python/tree/master/Exercise1:%20Linear%20Regression)
-
+##### [Exercise 1: Solution using Pandas and Numpy](https://github.com/TimofeyPro/ML-course-in-Python/blob/master/Exercise1:%20Linear%20Regression/ex1-v02.ipynb)
+##### [Exercise 1: Solution using scikit-learn](https://github.com/TimofeyPro/ML-course-in-Python/blob/master/Exercise1:%20Linear%20Regression/ex1-SkiKit.ipynb)
 
 #### [Exercise 4: Neural Networks Learning](Exercise4_Neural_Networks_Learning)
 
