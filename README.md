@@ -7,7 +7,7 @@ You may find more details in Russian at [timofey.pro](https://timofey.pro/AI/Ng.
    2. [Ex1: Solution using scikit-learn](https://github.com/TimofeyPro/ML-course-in-Python/tree/master/Exercise2:%20Linear%20Regression%20with%20multiple%20variables)
 
 
-#### [Exercise2: Linear Regression with multiple variables](https://github.com/TimofeyPro/ML-course-in-Python/tree/master/Exercise1:%20Linear%20Regression)
+#### [Exercise2: Linear Regression with multiple variables](https://github.com/TimofeyPro/ML-course-in-Python/tree/master/Exercise2:%20Linear%20Regression%20with%20multiple%20variables)
 
    1. [Ex2: Solution using Numpy and feature normalization](https://github.com/TimofeyPro/ML-course-in-Python/blob/master/Exercise2:%20Linear%20Regression%20with%20multiple%20variables/ex1-multi.ipynb)
 
