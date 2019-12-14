@@ -1,16 +1,19 @@
 ### Python implementations of the exercises presented by Andrew Ng in "Machine Learning" class on Coursera.  
 You may find more details in Russian at [timofey.pro](https://timofey.pro/AI/Ng.html)  
 
-#### [Exercise 1: Linear Regression with One Variable](https://github.com/TimofeyPro/ML-course-in-Python/tree/master/Exercise1:%20Linear%20Regression)
+#### [Week 1: Linear Regression with One Variable](https://github.com/TimofeyPro/ML-course-in-Python/tree/master/Exercise1:%20Linear%20Regression)
 
    1. [Ex1: Solution using Pandas and Numpy](https://github.com/TimofeyPro/ML-course-in-Python/blob/master/Exercise1:%20Linear%20Regression/ex1-v02.ipynb)
    2. [Ex1: Solution using scikit-learn](https://github.com/TimofeyPro/ML-course-in-Python/tree/master/Exercise2:%20Linear%20Regression%20with%20multiple%20variables)
 
 
-#### [Exercise2: Linear Regression with multiple variables](https://github.com/TimofeyPro/ML-course-in-Python/tree/master/Exercise2:%20Linear%20Regression%20with%20multiple%20variables)
+#### [Week2: Linear Regression with multiple variables](https://github.com/TimofeyPro/ML-course-in-Python/tree/master/Exercise2:%20Linear%20Regression%20with%20multiple%20variables)
 
    1. [Ex2: Solution using Numpy and feature normalization](https://github.com/TimofeyPro/ML-course-in-Python/blob/master/Exercise2:%20Linear%20Regression%20with%20multiple%20variables/ex1-multi.ipynb)
    2. [Ex2: Solution using Normal Equation](https://github.com/TimofeyPro/ML-course-in-Python/blob/master/Exercise2:%20Linear%20Regression%20with%20multiple%20variables/ex1-Norm-Eqv.ipynb)
+
+#### [Week3: Logistic Regression](https://github.com/TimofeyPro/ML-course-in-Python/tree/master/Exercise2:%20Linear%20Regression%20with%20multiple%20variables)
+
 
 #### [Exercise 4: Neural Networks Learning](Exercise4_Neural_Networks_Learning)
 
