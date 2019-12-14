@@ -12,7 +12,7 @@ You may find more details in Russian at [timofey.pro](https://timofey.pro/AI/Ng.
    1. [Ex2: Solution using Numpy and feature normalization](https://github.com/TimofeyPro/ML-course-in-Python/blob/master/Exercise2:%20Linear%20Regression%20with%20multiple%20variables/ex1-multi.ipynb)
    2. [Ex2: Solution using Normal Equation](https://github.com/TimofeyPro/ML-course-in-Python/blob/master/Exercise2:%20Linear%20Regression%20with%20multiple%20variables/ex1-Norm-Eqv.ipynb)
 
-#### [Week3: Logistic Regression](https://github.com/TimofeyPro/ML-course-in-Python/tree/master/Exercise2:%20Linear%20Regression%20with%20multiple%20variables)
+#### [Week3: Logistic Regression](https://github.com/TimofeyPro/ML-course-in-Python/blob/master/Week3:%20Logistic%20Regression)
 
 
 #### [Exercise 4: Neural Networks Learning](Exercise4_Neural_Networks_Learning)
