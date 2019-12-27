@@ -14,6 +14,7 @@ You may find more details in Russian at [timofey.pro](https://timofey.pro/AI/Ng.
 
 #### [Week3: Logistic Regression](https://github.com/TimofeyPro/ML-course-in-Python/blob/master/Week3:%20Logistic%20Regression)
 
+   1. [Week3: Solution using Gradient Descent](https://github.com/TimofeyPro/ML-course-in-Python/blob/master/Week3:%20Logistic%20Regression/W3_Solution%20using%20Gradient%20Descent.ipynb)
 
 #### [Exercise 4: Neural Networks Learning](Exercise4_Neural_Networks_Learning)
 
