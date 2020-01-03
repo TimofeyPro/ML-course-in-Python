@@ -16,6 +16,7 @@ You may find more details in Russian at [timofey.pro](https://timofey.pro/AI/Ng.
 
    1. [Week3: Solution using Gradient Descent](https://github.com/TimofeyPro/ML-course-in-Python/blob/master/Week3:%20Logistic%20Regression/W3_Solution%20using%20Gradient%20Descent.ipynb)
    2. [Week3: Same solution using Scikit-Learn](https://github.com/TimofeyPro/ML-course-in-Python/blob/master/Week3:%20Logistic%20Regression/W3_Solution%20using%20Scikit-Learn.ipynb)
+   3. [Week3: Microchip solution](https://github.com/TimofeyPro/ML-course-in-Python/blob/master/Week3:%20Logistic%20Regression/microchip.ipynb)
 
 #### [Exercise 4: Neural Networks Learning](Exercise4_Neural_Networks_Learning)
 
