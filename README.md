@@ -18,7 +18,7 @@ You may find more details in Russian at [timofey.pro](https://timofey.pro/AI/Ng.
    2. [Week3: Same solution using Scikit-Learn](https://github.com/TimofeyPro/ML-course-in-Python/blob/master/Week3:%20Logistic%20Regression/W3_Solution%20using%20Scikit-Learn.ipynb)
    3. [Week3: Microchips solution (adding additional higher order polynomial features)](https://github.com/TimofeyPro/ML-course-in-Python/blob/master/Week3:%20Logistic%20Regression/microchip.ipynb)
 
-#### [Exercise 4: Neural Networks Learning](Exercise4_Neural_Networks_Learning)
+#### [Week 4: Neural Networks Learning](Exercise4_Neural_Networks_Learning)
 
 1. How to check the current working directory? Как узнать текущую рабочую директорию? [checkWD.ipynb](Exercise4_Neural_Networks_Learning/checkWD.ipynb)  
 2. How to change (set) the current working directory? Как изменить рабочую директорию? [checkWD.ipynb](Exercise4_Neural_Networks_Learning/checkWD.ipynb)
