@@ -34,7 +34,3 @@ You may find more details in Russian at [timofey.pro](https://timofey.pro/AI/Ng.
 9. [Manual](https://docs.scipy.org/doc/scipy-0.15.1/reference/generated/scipy.optimize.minimize.html) for scipy.optimize.minimize(fun, x0, args=(), method=None, jac=None, hess=None, hessp=None, bounds=None, constraints=(), tol=None, callback=None, options=None) function.  
         
   #### [Exercise 5:](Exercise4_Neural_Networks_Learning)      
-        
-  Coming soon
-  
-You can find useful links to other solutions [here](https://github.com/jdwittenauer/ipython-notebooks), [here](https://github.com/kaleko/CourseraML/blob/master/ex4/ex4.ipynb), [here](https://medium.com/analytics-vidhya/a-guide-to-using-logistic-regression-for-digit-recognition-with-python-codes-86aae6da10fe) and [here](https://github.com/andrewenoble/machine-learning-andrew-ng).
