@@ -20,4 +20,4 @@ You may find more details in Russian at [timofey.pro](https://timofey.pro/AI/Ng.
 
 #### [Week4: One-vs-All + Neural Networks](https://github.com/TimofeyPro/ML-course-in-Python/blob/master/Week4:%20One-vs-All%20%2B%20Neural%20Networks/one-vs-all.ipynb)
         
-#### [Exercise 5:](https://github.com/TimofeyPro/coursera_ml_andrew/blob/master/ex4.ipynb)      
+#### [Exercise 5: Backpropagation](https://github.com/TimofeyPro/coursera_ml_andrew/blob/master/ex4.ipynb)      
